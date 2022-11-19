@@ -1,4 +1,4 @@
-# useful_code_for_working_with_mri
+# useful_code_for_working_with_mri_and_ct_files
 in this ripository i want to share some of my useful code that i design when i working with mri and ct image 
 
 <h3>1-extract atuomaticaly headmask and skull from ct images</h3>
